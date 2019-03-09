@@ -12,8 +12,8 @@
 *   add a both sides
 *    3a<a+b+c
 *    a<n/3
-*   after solving a+b+c = n and a^2 + b^2 = c^2   
 *   here  assume a  as constant for solve equation then there is only two variables b,and c
+*   after solving a+b+c = n and a^2 + b^2 = c^2  
 *   you will get b = (n^2 - 2*n*a )/(2*n - 2*a)
 */
 
