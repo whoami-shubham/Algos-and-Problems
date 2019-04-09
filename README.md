@@ -29,20 +29,20 @@
 </details>
 <details><summary>Number Theory</summary>
   
-  - [ Gcd ]()
-  - [ Lcm ]()
-  - [ Prime ]()
-  - [ Sieve of Eratosthenes]()
-  - [ Modular Exponentiation ]()
+  - [ Gcd ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/gcd.cpp)
+  - [ Lcm ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/lcm.cpp)
+  - [ Prime ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/isPrime.cpp)
+  - [ Sieve of Eratosthenes](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/seive.cpp)
+  - [ Modular Exponentiation ]('https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation.cpp')
   
 </details>
 <details><summary>Sorting Algorithms</summary>
   
- - [ Bubble Sort]()
- - [ Bubble Sort 2]()
- - [ Insertion Sort]()
+ - [ Bubble Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort.cpp)
+ - [ Bubble Sort 2](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort_2.cpp)
+ - [ Insertion Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Insertion_Sort.cpp)
  -  Selection Sort
- - [ Merge Sort]()
+ - [ Merge Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Merge_Sort.cpp)
  - Quick Sort
  
 </details>
