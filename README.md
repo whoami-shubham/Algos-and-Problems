@@ -1,5 +1,5 @@
-# Standard Algorithms and Data structures 
-i made this repository while revising  Algorithm and data structures
+# Algorithms and problems 
+`i made this repository while revising  Algorithm and data structures and solving hackerrank's project Euler problems`
 
 <details><summary>Project Euler</summary>
 
