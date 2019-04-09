@@ -2,6 +2,8 @@
 `i made this repository while revising  Algorithm and data structures and solving hackerrank's project Euler problems`
 
 <details><summary>Project Euler</summary>
+   
+   ![project Euler](https://raw.githubusercontent.com/whoami-shubham/Algos-and-Problems/master/Project_Euler/hackerrank.png)
 
    - [#1](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%231.cpp)
    - [#2](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%232.cpp)
