@@ -33,7 +33,7 @@
   - [ Lcm ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/lcm.cpp)
   - [ Prime ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/isPrime.cpp)
   - [ Sieve of Eratosthenes](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/seive.cpp)
-  - [ Modular Exponentiation ]('https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation.cpp')
+  - [ Modular Exponentiation ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation.cpp)
   
 </details>
 <details><summary>Sorting Algorithms</summary>
