@@ -43,8 +43,8 @@
  - [ Bubble Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort.cpp)
  - [ Bubble Sort 2](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort_2.cpp)
  - [ Insertion Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Insertion_Sort.cpp)
- -  Selection Sort
+ -  [Selection Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Selection_Sort.cpp)
  - [ Merge Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Merge_Sort.cpp)
- - Quick Sort
+ - [Quick Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Quick_Sort.cpp)
  
 </details>
