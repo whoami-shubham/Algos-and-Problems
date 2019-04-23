@@ -28,6 +28,7 @@
    - [#21](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%2321.cpp)
    - [#22](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%2322.cpp)
    - [#23](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%2323.cpp)
+   - [#24](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Project_Euler/%2324.cpp)
 </details>
 <details><summary>Number Theory</summary>
   
