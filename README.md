@@ -40,6 +40,42 @@
   - [ Modular Exponentiation ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation.cpp)
   
 </details>
+<details><summary>Array</summary>
+  
+ - [ Maximum Sum Subarray ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/Maximum_Sum_Subarray.cpp)
+ - Spiral Order Matrix
+ - Next Permutation
+ - Reveal Cards In Increasing Order
+
+
+</details>
+</details>
+<details><summary>Binary Search</summary>
+  
+ - Binary Search
+ - implement sqrt
+ - Search in Rotated Sorted Array
+ - Allocate Books
+ 
+
+</details>
+<details><summary>Bit Manipulation</summary>
+  
+ - Min XOR value
+ - Divide Integers
+ - Single Number
+
+
+</details>
+<details><summary>Two Pointers</summary>
+  
+ - 3 Sum
+ - Counting Triangles
+ 
+
+
+</details>
+
 <details><summary>Sorting Algorithms</summary>
   
  - [ Bubble Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort.cpp)
