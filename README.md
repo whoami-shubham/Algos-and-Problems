@@ -53,7 +53,7 @@
 <details><summary>Binary Search</summary>
   
  - Binary Search
- - implement sqrt
+ - [ implement sqrt ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/sqrt.cpp)
  - Search in Rotated Sorted Array
  - Allocate Books
  
@@ -61,9 +61,9 @@
 </details>
 <details><summary>Bit Manipulation</summary>
   
- - Min XOR value
+ - [ Min XOR value ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Min_XOR.cpp) 
  - Divide Integers
- - Single Number
+ - [ Single Number ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Single_Number.cpp)
 
 
 </details>
