@@ -44,7 +44,7 @@
 <details><summary>Array</summary>
   
  - [ Maximum Sum Subarray ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/Maximum_Sum_SubArray.cpp)
- - Spiral Order Matrix
+ - [ Spiral Order Matrix ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/spiral_order_matrix.cpp)
  - Next Permutation
  - Reveal Cards In Increasing Order
 
