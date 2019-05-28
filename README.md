@@ -1,5 +1,4 @@
 # Algorithms and problems 
-`i made this repository while revising  Algorithm and data structures and solving  problems`
 
 <details><summary>Project Euler</summary>
    
