@@ -1,5 +1,8 @@
 # Algorithms and problems 
 
+[Contribution Guide](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/CODE_OF_CONDUCT.md)
+<br/>
+
 <details><summary>Project Euler</summary>
    
    ![project Euler](https://raw.githubusercontent.com/whoami-shubham/Algos-and-Problems/master/Project_Euler/hackerrank.png)
