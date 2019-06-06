@@ -1,4 +1,5 @@
-# Algorithms and problems ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+ ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  ![](https://img.shields.io/badge/languages-c++_python-brightgreen.svg)
+# Algorithms and problems
 
 [Contribution Guide](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/CODE_OF_CONDUCT.md)
 <br/>
