@@ -79,6 +79,18 @@
 
 
 </details>
+<details><summary>Graphs</summary>
+  
+ - [ ] DFS
+ - [ ] BFS
+ - [x] [Hamiltonian Circuit or Cycle](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Graphs/hamiltonian_cycle.py)
+ - [x] [Euler Circuit and Path for undirected Graph](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Graphs/10_13CP.py)
+ - [x] [Euler Circuit and Path for directed MultiGraph](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Graphs/10_14CP.py)
+ - [x] [Course Scheduling](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Graphs/10_19CP.py)
+ - [x] [Dijkstra’s Algorithm](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Graphs/10_17CP.py)
+
+
+</details>
 
 <details><summary>Sorting Algorithms</summary>
   
