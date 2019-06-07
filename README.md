@@ -53,7 +53,7 @@
 </details>
 <details><summary>Binary Search</summary>
   
- - Binary Search
+ - [ Binary Search ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/Binary_Search.cpp)
  - [ implement sqrt ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/sqrt.cpp)
  - Search in Rotated Sorted Array
  - Allocate Books
