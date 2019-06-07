@@ -79,6 +79,22 @@
 
 
 </details>
+<details><summary>Tree</summary>
+  
+ - [ ] Inorder   Traversal without recursion
+ - [ ] Preorder  Traversal without recursion
+ - [ ] Postorder Traversal without recursion
+ - [ ] Vertical Order traversal of Binary Tree
+ - [ ] Inorder Traversal of Cartesian Tree
+ - [ ] Sorted Array To Balanced BST
+ - [ ] Binary Tree From Inorder And Postorder
+ - [ ] Construct Binary Tree From Inorder And Preorder
+ - [ ] Least Common Ancestor
+ - [ ] Order of People Heights
+ 
+
+
+</details>
 <details><summary>Graphs</summary>
   
  - [ ] DFS
