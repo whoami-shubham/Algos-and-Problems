@@ -68,7 +68,7 @@ def Input_Edges(graph):
 	for edge in range(N):
 		start_vertex,end_vertex,edge_weight = input(f'enter start vertex end vertex and edge weight for edge {edge+1}  : ').strip().split() # input start vertex
 		if start_vertex in graph:    # if start vertex is present in Graph
-			if end_vertex not in graph[start_vertex]: # avoid duplicat vertices
+			if end_vertex not in graph[start_vertex]: # avoid duplicate vertices
 				graph[start_vertex].append(end_vertex)
 		else:
 			graph[start_vertex] = [end_vertex] # if start vertex is not present in Graph add it
