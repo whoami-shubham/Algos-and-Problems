@@ -81,9 +81,9 @@
 </details>
 <details><summary>Tree</summary>
   
- - [ ] Inorder   Traversal without recursion
- - [ ] Preorder  Traversal without recursion
- - [ ] Postorder Traversal without recursion
+ - [x] [Inorder   Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/inorder.cpp)
+ - [x] [Preorder  Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/preorder.cpp)
+ - [x] [Postorder Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/postorder.cpp)
  - [ ] Vertical Order traversal of Binary Tree
  - [ ] Inorder Traversal of Cartesian Tree
  - [ ] Sorted Array To Balanced BST
