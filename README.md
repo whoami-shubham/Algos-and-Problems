@@ -79,6 +79,14 @@
 
 
 </details>
+<details><summary>Stack</summary>
+  
+ - [x] [Largest Rectangle in Histogram](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/histagram.cpp)
+ - [x] [Trapping Rain Water](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/Rain_water.cpp)
+ 
+
+
+</details>
 <details><summary>Tree</summary>
   
  - [x] [Inorder   Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/inorder.cpp)
