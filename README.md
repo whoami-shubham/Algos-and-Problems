@@ -71,6 +71,12 @@
 
 
 </details>
+<details><summary>String</summary>
+  
+ - [x] [closest palindrome](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/String/closest_palindrome.cpp)
+ 
+ 
+</details>
 <details><summary>Two Pointers</summary>
   
  - [ ] 3 Sum
