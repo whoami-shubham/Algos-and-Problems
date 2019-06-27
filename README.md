@@ -1,5 +1,6 @@
  [](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  ![](https://img.shields.io/badge/languages-c++_python-brightgreen.svg)  [![GitHub issues](https://img.shields.io/github/issues/whoami-shubham/Algos-and-Problems.svg)](https://github.com/whoami-shubham/Algos-and-Problems/issues)
 # Algorithms and problems
+> <b>Goal : </b> Add at least one problem or Algorithm in a week  
 
 [Contribution Guide](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/CODE_OF_CONDUCT.md)
 <br/>
@@ -95,6 +96,7 @@
 </details>
 <details><summary>Linked List</summary>
   
+ - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/Linked_List/mergeTwoSortedLists.cpp)
  - [ ] Reverse Link List
  - [ ] Palindrome List
  - [ ] Remove Duplicates from Sorted List
