@@ -96,7 +96,7 @@
 </details>
 <details><summary>Linked List</summary>
   
- - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/Linked_List/mergeTwoSortedLists.cpp)
+ - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/mergeTwoSortedLists.cpp)
  - [ ] Reverse Link List
  - [ ] Palindrome List
  - [ ] Remove Duplicates from Sorted List
