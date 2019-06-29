@@ -112,6 +112,7 @@
  - [ ] Vertical Order traversal of Binary Tree
  - [ ] Inorder Traversal of Cartesian Tree
  - [ ] Sorted Array To Balanced BST
+ - [x] [Serialize and Deserialize a Binary Tree](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/SerializeandDeserialize.cpp)
  - [ ] Binary Tree From Inorder And Postorder
  - [ ] Construct Binary Tree From Inorder And Preorder
  - [ ] Least Common Ancestor
