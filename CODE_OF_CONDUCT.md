@@ -1,12 +1,22 @@
 # Contributing Manual  
 
-**read ⭐ at least once** <br/><br/>
+
 ⭐ check issues you would find out current tasks, comment on issue if you're interested . or you can create new issues to suggest features. <br/>
 ⭐ When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. <br/>
 ⭐ The code that you have added must be documented thoroughly. Open Source is about writing code that humans can read and understand.    Without documentation, it is so hard to read any code. Hence, add information in the comments of code etc.<br/>
 ⭐ Write good variable names that can reduce the need for extensive comments.<br/><br/>
+### Remember That a Good Program...
 
+   > is decomposed logically into functions where any one function does one and only one task.
+
+   > has a main program that reads like an outline of what the program will do.
+
+   > has descriptive function, constant and variable names.
+
+   > uses constants to avoid any "magic" numbers in the program.
+
+   > has a friendly user interface.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
