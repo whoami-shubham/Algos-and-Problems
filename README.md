@@ -38,17 +38,17 @@
 </details>
 <details><summary>Number Theory</summary>
   
-  - [x] [ Gcd ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/gcd.cpp)
-  - [x] [ Lcm ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/lcm.cpp)
-  - [x] [ Prime ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/isPrime.cpp)
-  - [x] [ Sieve of Eratosthenes](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/seive.cpp)
-  - [x] [ Modular Exponentiation ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation.cpp)
+  - [x] [ Gcd ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/gcd)
+  - [x] [ Lcm ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/lcm)
+  - [x] [ Prime ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/isPrime)
+  - [x] [ Sieve of Eratosthenes](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/seive)
+  - [x] [ Modular Exponentiation ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Number_Theory/modularExponentiation)
   
 </details>
 <details><summary>Array</summary>
   
- - [x] [ Maximum Sum Subarray ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/Maximum_Sum_SubArray.cpp)
- - [x] [ Spiral Order Matrix ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/spiral_order_matrix.cpp)
+ - [x] [ Maximum Sum Subarray ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/Maximum_Sum_SubArray)
+ - [x] [ Spiral Order Matrix ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Array/Spiral_Order_Matrix)
  - [ ] Next Permutation
  - [ ] Reveal Cards In Increasing Order
 
@@ -57,24 +57,24 @@
 </details>
 <details><summary>Binary Search</summary>
   
- - [x] [ Binary Search ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/Binary_Search.cpp)
- - [x] [ implement sqrt ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/sqrt.cpp)
+ - [x] [ Binary Search ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/Binary_Search)
+ - [x] [ implement sqrt ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/sqrt)
  - [ ] Search in Rotated Sorted Array
- - [x] [Allocate Books](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/Allocate_Books.cpp)
+ - [x] [Allocate Books](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Binary_Search/Allocate_Books)
  
 
 </details>
 <details><summary>Bit Manipulation</summary>
   
- - [x] [ Min XOR value ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Min_XOR.cpp) 
+ - [x] [ Min XOR value ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Min_XOR) 
  - [ ] Divide Integers
- - [x] [ Single Number ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Single_Number.cpp)
+ - [x] [ Single Number ](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Bit_Manipulation/Single_Number)
 
 
 </details>
 <details><summary>String</summary>
   
- - [x] [closest palindrome](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/String/closest_palindrome.cpp)
+ - [x] [closest palindrome](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/String/closest_palindrome)
  
  
 </details>
@@ -88,17 +88,17 @@
 </details>
 <details><summary>Stack</summary>
   
- - [x] [Largest Rectangle in Histogram](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/histagram.cpp)
- - [x] [Trapping Rain Water](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/Rain_water.cpp)
+ - [x] [Largest Rectangle in Histogram](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/histagram)
+ - [x] [Trapping Rain Water](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Stack/Rain_water)
  
 
 
 </details>
 <details><summary>Linked List</summary>
   
- - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/mergeTwoSortedLists.cpp)
+ - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/mergeTwoSortedLists)
  - [ ] Reverse Linked List
- - [x] [K Reverse Linked List](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/K_ReverseLinkedList.cpp)
+ - [x] [K Reverse Linked List](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/K_ReverseLinkedList)
  - [ ] Palindrome List
  - [ ] Remove Duplicates from Sorted List
  - [ ] Remove Duplicates from Sorted List II
@@ -107,14 +107,14 @@
 </details>
 <details><summary>Tree</summary>
   
- - [x] [Inorder   Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/inorder.cpp)
- - [x] [Preorder  Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/preorder.cpp)
- - [x] [Postorder Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/postorder.cpp)
- - [x] [Morris Traversal](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/Morris_Traversal.cpp)
+ - [x] [Inorder   Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/inorder)
+ - [x] [Preorder  Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/preorder)
+ - [x] [Postorder Traversal without recursion](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/postorder)
+ - [x] [Morris Traversal](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/Morris_Traversal)
  - [ ] Vertical Order traversal of Binary Tree
  - [ ] Inorder Traversal of Cartesian Tree
  - [ ] Sorted Array To Balanced BST
- - [x] [Serialize and Deserialize a Binary Tree](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/SerializeandDeserialize.cpp)
+ - [x] [Serialize and Deserialize a Binary Tree](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Tree/SerializeandDeserialize)
  - [ ] Binary Tree From Inorder And Postorder
  - [ ] Construct Binary Tree From Inorder And Preorder
  - [ ] Least Common Ancestor
@@ -138,11 +138,11 @@
 
 <details><summary>Sorting Algorithms</summary>
   
- - [x] [ Bubble Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort.cpp)
- - [x] [ Bubble Sort 2](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort_2.cpp)
- - [x] [ Insertion Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Insertion_Sort.cpp)
- - [x] [Selection Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Selection_Sort.cpp)
- - [x] [ Merge Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Merge_Sort.cpp)
- - [x] [Quick Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Quick_Sort.cpp)
+ - [x] [ Bubble Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort)
+ - [x] [ Bubble Sort 2](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Bubble_Sort_2)
+ - [x] [ Insertion Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Insertion_Sort)
+ - [x] [Selection Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Selection_Sort)
+ - [x] [ Merge Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Merge_Sort)
+ - [x] [Quick Sort](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Sorting_Algo/Quick_Sort)
  
 </details>
