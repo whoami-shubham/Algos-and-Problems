@@ -19,7 +19,7 @@ int main(){
 
 int Maximum_Sum_SubArray_1(vector<int>& v){
     int n = v.size();
-    int ans = 0;
+    int ans = INT_MIN;
     for(int i=0;i<n;i++){
     	for(int j=i;j<n;j++){
     		int sum = 0;
@@ -34,7 +34,7 @@ int Maximum_Sum_SubArray_1(vector<int>& v){
 
 int Maximum_Sum_SubArray_2(vector<int>& v){
 	int n = v.size();
-    int ans = 0;
+    int ans = INT_MIN;
     for(int i=0;i<n;i++){
     	int sum = 0;
     	for(int j=i;j<n;j++){
@@ -47,8 +47,8 @@ int Maximum_Sum_SubArray_2(vector<int>& v){
 
 int Maximum_Sum_SubArray_3(vector<int>& v){
 	int n = v.size();
-    int ans = 0;
-    int dp[n];
+    int ans = INT_MIN;
+    int dp[n];  //  we can solve without this array
     if(n>0){
     	dp[0] = v[0]>0?v[0]:0;
     }
