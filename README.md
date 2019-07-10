@@ -99,6 +99,7 @@
  - [x] [Merge Two Sorted Lists](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/mergeTwoSortedLists)
  - [ ] Reverse Linked List
  - [x] [K Reverse Linked List](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/K_ReverseLinkedList)
+ - [x] [Sort List](https://github.com/whoami-shubham/Algos-and-Problems/blob/master/Linked_List/sort_list)
  - [ ] Palindrome List
  - [ ] Remove Duplicates from Sorted List
  - [ ] Remove Duplicates from Sorted List II
