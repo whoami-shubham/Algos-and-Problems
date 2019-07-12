@@ -44,7 +44,7 @@ ListNode* Solution::sortList(ListNode* A) {
         return A;
     }
     
-    ListNode *slow=A,*fast=A?A->next:NULL;
+    ListNode *slow=A,*fast=A->next;
     while(fast && fast->next){
         slow = slow->next;
         fast = fast->next->next;
